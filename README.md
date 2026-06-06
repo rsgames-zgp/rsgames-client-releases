@@ -1,9 +1,9 @@
 # RS Games Client — Downloads
-
+  
 This repo hosts distributable binaries for the **RS Games Client**, the
 accessible multiplayer desktop client for [rsgames.org](https://www.rsgames.org).
 
-The client source code lives in a private repo. This repo exists only
+ This repo exists only
 to host downloads on GitHub's CDN with public, unauthenticated access.
 
 ## Get the latest version
@@ -26,6 +26,7 @@ If you are in the RSGames beta team, access to our beta releases will be granted
 
 Email [rsgames@gmail.com](mailto:rsgames@gmail.com) or open a public issue on this repo, please include:
 - Your operating system + version
+your error.log file 
 - Which client release you downloaded
 - What you were doing when the bug happened
 - Anything that appeared in the `errors.log` file (location varies by OS — your app-data dir)
